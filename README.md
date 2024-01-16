@@ -1,3 +1,3 @@
 # Yunicorn VC
 
-[yunicorn](https://yunicorn.vc/){:target="_blank"}
+[yunicorn](https://yunicorn.vc/)
