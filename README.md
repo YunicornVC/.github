@@ -1,3 +1,4 @@
-# Yunicorn VC
+# Yunicorn Ventures
+## We partner, found and invest in exceptional businesses.
 
-[yunicorn](https://yunicorn.vc/)
+[Read More](https://yunicorn.vc/)
